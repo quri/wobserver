@@ -1,5 +1,8 @@
 # Change log
 
+## 0.1.10
+Update HTTPoison
+
 ## 0.1.9
 
 (this is due to the fork for Quri so that Hex will update it)
